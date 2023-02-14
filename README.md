@@ -1,2 +1,2 @@
 # reactgen
-generate react
+generate react the bad way
